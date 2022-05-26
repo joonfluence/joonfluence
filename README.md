@@ -1,7 +1,6 @@
 ### Hi there, i'm Chris 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoonfluence&count_bg=%238CB95C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
 [I started coding out of curiosity about the software](https://joonfluence.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%9D%98-%EA%B8%B8%EC%9D%84-%EA%B1%B7%EA%B2%8C-%EB%90%9C-%EA%B3%84%EA%B8%B0).
 I'm a programmer who thinks "work for others is work for myself.
