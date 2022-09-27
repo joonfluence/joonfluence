@@ -4,7 +4,7 @@
 
 A person who has a reckless dream but achieves a very realistic goal.
 
-My goal is to set up a software company that people around the world can use and dream of having wealth and good influence through it, and to start a journey toward dreams by starting a company within five years.
+My goal is to create software that can be used by people around the world, dream of wealth and good influence through it, and start the journey toward the dream within five years. Would you like to dream with me? 
 
 Currently, I work as a back-end developer at a startup in the pre-A stage, and I am interested in creating technically better products and organizing culture to achieve the best results.
 
