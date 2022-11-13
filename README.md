@@ -12,7 +12,7 @@ A person who has a recklessly big dream but achieves a very realistic goal.
 
 The goal is to create software that can be used by people all over the world, and to start the journey toward that dream within five years, dreaming of having wealth and good influence through it.
 
-Currently, I work as a back-end developer in a pre-A startup and I'm very interested in [creating flexible products to meet changing business needs](https://joonfluence.tistory.com/322) and [growing with colleagues](https://joonfluence.tistory.com/667)).
+Currently, I work as a back-end developer in a pre-A startup and I'm very interested in [creating flexible products to meet changing business needs](https://joonfluence.tistory.com/322) and [growing with colleagues](https://joonfluence.tistory.com/667).
 
 ### 경력 및 흥미사항 (Career and interests)
 
