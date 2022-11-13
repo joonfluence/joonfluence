@@ -14,7 +14,7 @@ The goal is to create software that can be used by people all over the world, an
 
 Currently, I work as a back-end developer in a pre-A startup and I'm very interested in [creating flexible products to meet changing business needs](https://joonfluence.tistory.com/322) and [growing with colleagues](https://joonfluence.tistory.com/667)).
 
-### 경력 및 흥미사항
+### 경력 및 흥미사항 (Career and interests)
 
 - 👯 [Corretto](https://insideweb.kr/)라는 개발 에이전시에서 1년 동안 프론트엔드 개발자로 커머스, 어드민, 플랫폼으로 구성된 중규모 웹 프로젝트 두 번과 앱 프로젝트에 참여하고 완성한 경험이 있습니다. 
 - 🔭 현재는 [달리셔스](https://kurrant.co/)라는 외식 중개 플랫폼서비스를 운영하는 푸드테크 스타트업에서 백엔드 개발자로 일하고 있습니다. 
