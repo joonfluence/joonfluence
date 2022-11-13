@@ -21,8 +21,8 @@ Currently, I work as a back-end developer in a pre-A startup and I'm very intere
 - 🌱 Gradle을 통한 멀티 모듈 프로젝트와 JPA/QueryDSL, MapStruct 등에 관해 공부하고 있습니다. 
 - 📜 PHP/MySQL/Apache2로 구성된 서버를 Java/Spring 환경으로 마이그레이션하는 것에 관심이 있습니다. 
 
-- In one year, I was a front-end developer at a development agency called 👯 [Corretto](https://insideweb.kr/)) and participated in and completed two medium-sized web projects consisting of commerce, admin, and platform, as well as an app project.
-- 🔭 Currently, I work as a back-end developer at a food tech startup that runs a restaurant brokerage platform service called [Dalicious](https://kurrant.co/)).
+- In one year, I was a front-end developer at a development agency called 👯 [Corretto](https://insideweb.kr/) and participated in and completed two medium-sized web projects consisting of commerce, admin, and platform, as well as an app project.
+- 🔭 Currently, I work as a back-end developer at a food tech startup that runs a restaurant brokerage platform service called [Dalicious](https://kurrant.co/).
 - I am studying multi-module projects through 🌱 Gradle and JPA/QueryDSL, MapStructure, etc.
 - We are interested in migrating servers configured with 📜 PHP/MySQL/Apache2 to a Java/Spring environment.
 
