@@ -8,7 +8,7 @@
 
 현재 저는 프리 A 단계의 스타트업에서 백엔드 개발자로 일하고 있으며, [변화하는 비즈니스 요구사항을 만족시킬 수 있는 유연한 제품을 만드는 것](https://joonfluence.tistory.com/322)과 [동료들과 함께 성장하는 것](https://joonfluence.tistory.com/667)에 대한 관심이 많습니다.
 
-A person who has a recklessly big dream but achieves a very realistic goal.
+I have a life mission: "Through software, contribute to the development of mankind."
 
 The goal is to create software that can be used by people all over the world, and to start the journey toward that dream within five years, dreaming of having wealth and good influence through it.
 
