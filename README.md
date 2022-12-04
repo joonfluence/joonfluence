@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoonfluence&count_bg=%238CB95C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-무모하리만큼 큰 꿈을 가지고 있지만 매우 현실적인 목표를 이뤄가는 사람. 
+"소프트웨어를 통해, 인류의 발전에 공헌한다."라는 삶의 미션을 갖고 있습니다.
 
 전 세계 사람들이 사용할 수 있는 소프트웨어를 만들어, 이를 통해 부와 선한 영향력을 갖길 꿈꾸며, 5년 안에 그 꿈을 향한 여정을 시작하는 것이 목표입니다. 
 
